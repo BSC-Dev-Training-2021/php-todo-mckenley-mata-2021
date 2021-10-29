@@ -1,0 +1,112 @@
+
+*{
+	box-sizing: border-box;
+	font-family: monospace;
+	margin: 5px;
+	font-family:	sans-serif;
+}
+body{
+	background-image: url(https://wallpaperaccess.com/full/3915856.jpg);
+	background-size: cover;
+}
+.profile{
+
+	width: 450px;
+	height: 750px;
+	background-color: rgba(242, 241, 239, 1);
+	float: right;
+
+}
+.profile-picture{
+	background-color: pink;
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-left: 110px;
+}
+img{
+	width: 400px;
+	margin-left:-50px;
+	margin-top: -20px;
+}
+.name{
+	border: 2px	solid black	;
+	text-align: center;
+	border-radius: 10px;
+	background-color: white;
+	border: 0px;
+
+}
+.my-name{
+	font-family: fantasy;
+	font-size:40px ;
+}
+.about{
+	height: 300px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	border: 0px;
+	text-align: center;
+}
+.ab{
+	padding-top: 2px;
+}
+.fas{
+	color: black;
+}
+
+
+button{
+	width: 200px;
+	margin-left: 100px;
+	height: 50px;
+	border-radius: 40px;
+	border: 0;
+	background-color: lightskyblue;
+	cursor: pointer;
+	font-size: 20px;
+	font-weight: bold;
+}
+button:hover{
+	background-color: blue;
+}
+.btn-design button{
+	
+}
+.activity{
+	border: 1px solid black;
+	width: 500px;
+	background-color:rgba(242, 241, 239, 1); 
+	float: right;
+	text-align: center;
+	height: 750px;
+}
+.notes{
+	width: 500px;
+	float: right;
+	text-align: center;
+	background-color:rgba(242, 241, 239, 1); 
+}
+ul{
+	background-color: white;
+}
+.orders{
+	height: 400px;
+}
+.btn-orders ul{
+	width: 20px;
+}
+.ratings{
+	
+	background-color: white;
+}
+textarea{
+	resize: none;
+	width: 450px;
+	height: 250px;
+
+}
+
+
