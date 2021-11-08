@@ -1,0 +1,18 @@
+body{
+ margin: 0;
+ padding: 0;
+ background: linear-gradient(to bottom right, #E3F0FF, #FAFCFF);
+ height: 100vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.Cart-Container{
+ width: 200px;
+ height: 150px;
+ background-color: blue;
+ border-radius: 20px;
+ box-shadow: 0px 25px 40px #1687d933;
+ border: 2px solid black;
+}
+
