@@ -1,0 +1,61 @@
+body {
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    
+
+}
+
+.height {
+    height: 100vh
+}
+
+.form {
+    position: relative;
+    width: 550px;
+}
+.form .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #9ca3af;
+}
+.form span {
+
+    position: absolute;
+    right: 60px;
+    padding: 2px;
+    bottom: 43px;
+    float: left;
+}
+.form span:hover{
+    cursor: pointer;
+}
+.left-pan {
+
+}
+.left-pan i {
+    padding-left: 10px;
+
+}
+.form-input {
+
+    text-indent: 33px;
+    border-radius: 10px
+}
+.form-input:focus {
+    box-shadow: none;
+    border: none
+}
+.fa-search{
+    padding-bottom: 10px;
+}
+.navbar-nav{
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
+
+

@@ -1,0 +1,24 @@
+*{
+
+	box-sizing: border-box;
+}
+.col-lg-12{
+	background-image: url(https://st3.depositphotos.com/4243035/i/600/depositphotos_375094988-stock-photo-shopping-concept-cartons-paper-boxes.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	border-radius: 5px;
+	box-shadow: 2px 2px 20px 2px black;
+	height: 750px;
+}
+.login-form{
+	margin-top: 160px;
+	margin-bottom: 50px;
+}
+.col-lg-4{
+	padding: 7px;
+}
+.btn-primary{
+	width: 100px;
+}
+

@@ -1,0 +1,21 @@
+
+.col-lg-12{
+	background-image: url(https://www.graphitech.org/wp-content/uploads/2021/09/shopping.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 5px;
+	box-shadow: 2px 2px 20px 2px black;
+	background-position: bottom;
+	height: 750px;
+
+}
+.login-form{
+	margin-top: 160px;
+	margin-bottom: 50px;
+}
+.col-lg-4{
+	padding: 7px;
+}
+.btn-primary{
+	width: 100px;
+}
