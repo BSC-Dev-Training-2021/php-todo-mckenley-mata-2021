@@ -1,1 +1,2 @@
-# McKenley_Mata_BSC-TRAINEE-EXAM
+# php-todo
+A simple To Do project
